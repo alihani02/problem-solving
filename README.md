@@ -1,2 +1,2 @@
 # problem-solving
-this repo consists of my own solutions of problems from various coding platforms, like leetcode, codeforces, and CSES. 
+this repo consists of my own solutions of problems hosted on codeforces and CSES. 
